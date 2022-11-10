@@ -1,2 +1,6 @@
 *.class
+*.txt
+*.iml
+
 bin
+.idea
